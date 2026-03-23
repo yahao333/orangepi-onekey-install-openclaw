@@ -25,6 +25,8 @@ chmod +x install_openclaw.sh
 ./install_openclaw.sh
 ```
 
+![Installation Success](install_success.png)
+
 ### Requirements
 
 - Linux (tested on Orange Pi)
@@ -72,6 +74,8 @@ openclaw --no-onboard
 chmod +x install_openclaw.sh
 ./install_openclaw.sh
 ```
+
+![安装成功截图](install_success.png)
 
 ### 环境要求
 
